@@ -1,1 +1,1 @@
-# random-starwars-names
+# random-rick-and-morty-names
