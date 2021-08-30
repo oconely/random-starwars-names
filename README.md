@@ -1,1 +1,1 @@
-# random-rick-and-morty-names
+# rick-and-morty-names

@@ -1,5 +1,5 @@
 {
-  "name": "random-rick-and-morty-names",
+  "name": "rick-and-morty-names",
   "version": "0.0.1",
   "description": "Get random Rick and Morty names",
   "main": "src/index.js",
