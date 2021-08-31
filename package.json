@@ -1,6 +1,6 @@
 {
   "name": "rick-and-morty-names",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get random Rick and Morty names",
   "main": "src/index.js",
   "devDependencies": {},
@@ -14,8 +14,8 @@
   "keywords": [
     "random",
     "rick",
-    "and",
-    "morty"
+    "morty",
+    "names"
   ],
   "author": "Oconely <oconely@hotmail.com> (https://oconely.github.io/)",
   "license": "MIT",
